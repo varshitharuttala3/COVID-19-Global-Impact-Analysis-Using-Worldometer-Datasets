@@ -267,6 +267,7 @@ AI & Machine Learning Internship Project
 
 A comprehensive Exploratory Data Analysis project focused on understanding the global impact of COVID-19 through data-driven insights and visualization.
 
+project completed as part of the AI & ML Internship Program through **Pluto Academy**
 ---
 
 ⭐ If you found this project useful, consider exploring the notebook and visualizations to gain deeper insights into global COVID-19 trends and patterns.
